@@ -3,6 +3,11 @@
 This project is an interactive **Power BI dashboard** built using a dataset of global data-related job postings.  
 It highlights job demand, salary insights, job distribution, and includes **drill-through analysis** for deeper exploration of each job role.
 
+<img width="1100" height="651" alt="image" src="https://github.com/user-attachments/assets/495451cc-ed9b-4181-ae6c-287511510d71" />
+
+<img width="1122" height="642" alt="image" src="https://github.com/user-attachments/assets/28d88923-6d71-4840-ae09-c9c838c3190b" />
+
+
 ## 🚀 Project Overview
 
 The dashboard visually answers important questions such as:
@@ -67,20 +72,4 @@ powerbi-data-jobs-dashboard/
    - Go to Home → Transform Data → Data Source Settings  
    - Reconnect to the dataset in the `data/` folder
 
-## 📊 Dataset Information
 
-- Dataset contains job postings across various countries and platforms.  
-- A sample dataset (`jobs_dataset.csv`) is included.  
-- Sensitive information (if any) has been removed.
-
-## 🤝 Contributing
-
-Feel free to open issues, suggest improvements, or fork the repository.
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
-## 📧 Contact
-
-If you'd like help with Power BI dashboards or data analysis, feel free to reach out!
